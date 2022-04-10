@@ -1,4 +1,4 @@
-package smart.oven.micronaut;
+package smart.oven.micronaut.m2;
 
 import io.micronaut.runtime.Micronaut;
 
