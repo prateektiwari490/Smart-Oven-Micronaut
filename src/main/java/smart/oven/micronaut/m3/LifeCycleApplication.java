@@ -14,7 +14,7 @@ public class LifeCycleApplication {
         Oven2 oven2 = applicationContext.getBean(Oven2.class);
         Oven3 oven3 = applicationContext.getBean(Oven3.class);
 
-        oven1.turnOn();
+        oven1.turnOn("Hindi");
         oven2.turnOn();
         oven3.turnOn();
 
